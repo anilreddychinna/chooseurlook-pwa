@@ -10,13 +10,19 @@ import { MoreComponent } from './components/more/more.component';
 import { MaterialModule } from './material.module';
 
 import { MatIconModule } from "@angular/material/icon";
-
-
+import { ProductsComponent } from './components/products/products.component';
+import { LoginComponent } from './components/login/login.component';
+import { ContactComponent } from './components/contact/contact.component';
+import { HomeOneComponent } from './components/home-one/home-one.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    MoreComponent
+    MoreComponent,
+    ProductsComponent,
+    LoginComponent,
+    ContactComponent,
+    HomeOneComponent
   ],
   imports: [
     BrowserModule,

@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660283231249,
+  "timestamp": 1660327264037,
   "index": "/chooseurlook-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/chooseurlook-pwa/favicon.ico",
         "/chooseurlook-pwa/index.html",
-        "/chooseurlook-pwa/main.526990acccf41fe5.js",
+        "/chooseurlook-pwa/main.b7f39e21d2e4daa2.js",
         "/chooseurlook-pwa/manifest.webmanifest",
         "/chooseurlook-pwa/polyfills.2ad9b001220b2c83.js",
         "/chooseurlook-pwa/runtime.c624b006195b354c.js",
@@ -54,9 +54,9 @@
     "/chooseurlook-pwa/assets/icons/icon-72x72.png": "b204e130af682045645639cf6fec9c4ae884a847",
     "/chooseurlook-pwa/assets/icons/icon-96x96.png": "08efec746617010c33ba0c8c99697855a3b80cf5",
     "/chooseurlook-pwa/favicon.ico": "9ca12a431d0ab4950e2bac73ae1515c3d578a0f8",
-    "/chooseurlook-pwa/index.html": "71a9b6499928891fab978eaefeb90ac72f96fee5",
-    "/chooseurlook-pwa/main.526990acccf41fe5.js": "7b43cfe77093d430cb48b547758ffc1b6a778b27",
-    "/chooseurlook-pwa/manifest.webmanifest": "eb28b08bcb875c356646757b025d93436f42b3a4",
+    "/chooseurlook-pwa/index.html": "83f2d31a95809db05248397336d93fcd78e948e1",
+    "/chooseurlook-pwa/main.b7f39e21d2e4daa2.js": "88354b59f45b97dee855c707dea57fbbffce8454",
+    "/chooseurlook-pwa/manifest.webmanifest": "926961cc62b5329d1e29c66fa877605e4d174353",
     "/chooseurlook-pwa/polyfills.2ad9b001220b2c83.js": "e52f4b944170d8aa1a1266f1285bd6a463e64e23",
     "/chooseurlook-pwa/runtime.c624b006195b354c.js": "64cf08bd46186db446ce0e0c224bf5599a55b84b",
     "/chooseurlook-pwa/styles.c662a49d7df8afc1.css": "d2e76fe35a804b34ae2fc570c44c10c2e99fc33c"

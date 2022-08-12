@@ -6,7 +6,8 @@
     "start": "ng serve",
     "build": "ng build -c production",
     "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "gpage": "ng build -c production --base-href /chooseurlook-pwa/"
   },
   "private": true,
   "dependencies": {

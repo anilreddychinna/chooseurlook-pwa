@@ -55,6 +55,22 @@
       "type": "image/png",
       "purpose": "maskable any"
     }
+  ],
+  "shortcuts" : [
+    {
+      "name": "Contact Me",
+      "url": "/contact",
+      "description": "Contact me for more details"
+    },
+    {
+      "name": "Shop Now",
+      "url": "/products",
+      "description": "Sale Sale Sale"
+    },
+    {
+      "name": "Track Orders",
+      "url": "/login"
+    }
   ]
 
 
