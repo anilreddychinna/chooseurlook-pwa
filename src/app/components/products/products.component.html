@@ -1,1 +1,15 @@
-<mat-card>Simple card</mat-card>
+
+  <div  *ngFor="let p of prodcuts; let i = index; let first = first; let last = last; let even = even; let odd = odd">
+    
+    <div class="example-small-box mat-elevation-z4">
+       <mat-icon aria-hidden="false" aria-label="Example home icon" fontIcon="shopping_cart"></mat-icon>
+        {{ p.name}} 
+        
+        <h5>Price : {{ p.price}} </h5>
+
+        <button mat-raised-button > <a href="{{p.link}}">Buy Now</a> </button>
+
+      </div>
+
+    </div>
+

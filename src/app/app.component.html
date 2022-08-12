@@ -1,9 +1,36 @@
-<div style="background-color:gold;">
+<div >
 
-  <mat-progress-bar class="app-progress" mode="indeterminate" aria-label="Indeterminate progress-bar example">
-  </mat-progress-bar>
 
   <h2>Welcome to ChooseurLook </h2>
+
+
+  <mat-chip-list aria-label="Dog selection">
+    
+      <a routerLink="/home1" routerLinkActive="active" ariaCurrentWhenActive="page">
+        <mat-chip color="primary">
+          Home
+        </mat-chip>
+        </a>
+        <a routerLink="/login" routerLinkActive="active" ariaCurrentWhenActive="page">
+          <mat-chip color="primary">
+            Login
+          </mat-chip>
+          </a>
+          <a routerLink="/products" routerLinkActive="active" ariaCurrentWhenActive="page">
+            <mat-chip color="primary">
+              Products
+            </mat-chip>
+            </a>
+
+            <a routerLink="/contact" routerLinkActive="active" ariaCurrentWhenActive="page">
+              <mat-chip color="primary">
+                contact
+              </mat-chip>
+              </a>
+
+            
+  </mat-chip-list>
+
 
 
   <router-outlet></router-outlet>

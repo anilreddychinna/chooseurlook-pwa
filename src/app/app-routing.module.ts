@@ -13,6 +13,9 @@ const routes: Routes = [
   { path: 'products', component: ProductsComponent },
   { path: 'contact', component: ContactComponent },
   { path: 'login', component: LoginComponent },
+
+  { path: '',   redirectTo: '/login', pathMatch: 'full' }, // redirect to `first-component`
+
   { path: '**', component: PageNotFoundComponent },  // Wildcard route for a 404 page
 ];
 
