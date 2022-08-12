@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660332174882,
+  "timestamp": 1660332305375,
   "index": "/chooseurlook-pwa/index.html",
   "assetGroups": [
     {
@@ -56,7 +56,7 @@
     "/chooseurlook-pwa/favicon.ico": "9ca12a431d0ab4950e2bac73ae1515c3d578a0f8",
     "/chooseurlook-pwa/index.html": "b75c3952cb0ca5de044fd9d0754862f78e8d9915",
     "/chooseurlook-pwa/main.7089f25b24d1749d.js": "cebcce78fa7e6adeabd47e21c4251cbfb5ad9c0c",
-    "/chooseurlook-pwa/manifest.webmanifest": "926961cc62b5329d1e29c66fa877605e4d174353",
+    "/chooseurlook-pwa/manifest.webmanifest": "3b68ff11fd40483a7d5f17b3bcd4f271b1c9310b",
     "/chooseurlook-pwa/polyfills.2ad9b001220b2c83.js": "e52f4b944170d8aa1a1266f1285bd6a463e64e23",
     "/chooseurlook-pwa/runtime.c624b006195b354c.js": "64cf08bd46186db446ce0e0c224bf5599a55b84b",
     "/chooseurlook-pwa/styles.c662a49d7df8afc1.css": "d2e76fe35a804b34ae2fc570c44c10c2e99fc33c"

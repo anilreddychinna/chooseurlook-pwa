@@ -1,8 +1,8 @@
 {
   "name": "chooseurlook-pwa",
   "short_name": "chooseurlook-pwa",
-  "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "theme_color": "gold",
+  "background_color": "gold",
   "display": "standalone",
   "scope": "./",
   "start_url": "./",
