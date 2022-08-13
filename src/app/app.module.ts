@@ -14,6 +14,7 @@ import { ProductsComponent } from './components/products/products.component';
 import { LoginComponent } from './components/login/login.component';
 import { ContactComponent } from './components/contact/contact.component';
 import { HomeOneComponent } from './components/home-one/home-one.component';
+import { CFooterComponent } from './components/c-footer/c-footer.component';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { HomeOneComponent } from './components/home-one/home-one.component';
     ProductsComponent,
     LoginComponent,
     ContactComponent,
-    HomeOneComponent
+    HomeOneComponent,
+    CFooterComponent
   ],
   imports: [
     BrowserModule,

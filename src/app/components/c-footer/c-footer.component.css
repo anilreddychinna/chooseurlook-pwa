@@ -1,0 +1,49 @@
+.footerMenuWrpr {
+    background: rgb(16, 227, 107);
+    box-shadow: 0 -1px 10px rgb(0 0 0 / 10%);
+    width: 100%;
+    position: fixed;
+    z-index: 100;
+    bottom: 0;
+    min-height: 56px;
+    left: 0px;
+}
+
+.footerMenuWrpr ul li {
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    width: 25%;
+    padding: 8px 0 0;
+}
+
+.footerMenuWrpr ul .activeNav .bottomNavTab {
+    font-family: montserrat-bold,sans-serif;
+    color: #0e0e0e;
+}
+
+.footerMenuWrpr ul li .bottomNavTab {
+    display: inline-block;
+    font-size: 11px;
+    font-family: montserrat-bold,sans-serif;
+    color: rgba(14,14,14,.4);
+    padding: 0 10px;
+    letter-spacing: -.12px;
+    text-align: center;
+}
+
+.footerMenuWrpr ul li .bottomNavTab span.active {
+    font-family: montserrat-bold,sans-serif!important;
+    font-size: 10px!important;
+    line-height: 12.19px!important;
+    color: #303030;
+}
+
+.footerMenuWrpr ul li .bottomNavTab span {
+    display: block;
+    margin-top: 4px;
+    color: #737373;
+    font-family: montserrat-regular,sans-serif!important;
+    font-size: 10px!important;
+    line-height: 12.19px!important;
+}

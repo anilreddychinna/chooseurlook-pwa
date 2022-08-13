@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660334225902,
+  "timestamp": 1660364707875,
   "index": "/chooseurlook-pwa/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/chooseurlook-pwa/favicon.ico",
         "/chooseurlook-pwa/index.html",
-        "/chooseurlook-pwa/main.7089f25b24d1749d.js",
+        "/chooseurlook-pwa/main.0ba94f258e63c7bc.js",
         "/chooseurlook-pwa/manifest.webmanifest",
         "/chooseurlook-pwa/polyfills.2ad9b001220b2c83.js",
         "/chooseurlook-pwa/runtime.c624b006195b354c.js",
@@ -37,7 +37,18 @@
         "/chooseurlook-pwa/assets/icons/icon-48x48.png",
         "/chooseurlook-pwa/assets/icons/icon-512x512.png",
         "/chooseurlook-pwa/assets/icons/icon-72x72.png",
-        "/chooseurlook-pwa/assets/icons/icon-96x96.png"
+        "/chooseurlook-pwa/assets/icons/icon-96x96.png",
+        "/chooseurlook-pwa/assets/svg/account.svg",
+        "/chooseurlook-pwa/assets/svg/bag.svg",
+        "/chooseurlook-pwa/assets/svg/bell.svg",
+        "/chooseurlook-pwa/assets/svg/c-ic-web-head-cart.svg",
+        "/chooseurlook-pwa/assets/svg/heart.svg",
+        "/chooseurlook-pwa/assets/svg/ic-web-head-wishlist.svg",
+        "/chooseurlook-pwa/assets/svg/like.svg",
+        "/chooseurlook-pwa/assets/svg/notifications.svg",
+        "/chooseurlook-pwa/assets/svg/reload.svg",
+        "/chooseurlook-pwa/assets/svg/search-1.svg",
+        "/chooseurlook-pwa/assets/svg/search.svg"
       ],
       "patterns": []
     }
@@ -53,9 +64,20 @@
     "/chooseurlook-pwa/assets/icons/icon-512x512.png": "276fde612d16823169dd72956366c962f8241840",
     "/chooseurlook-pwa/assets/icons/icon-72x72.png": "b204e130af682045645639cf6fec9c4ae884a847",
     "/chooseurlook-pwa/assets/icons/icon-96x96.png": "08efec746617010c33ba0c8c99697855a3b80cf5",
+    "/chooseurlook-pwa/assets/svg/account.svg": "5f10cc927ff276c8bb9e342f24cbb4b196292d8f",
+    "/chooseurlook-pwa/assets/svg/bag.svg": "bc839efbfb25c735f001008d640523530a73811b",
+    "/chooseurlook-pwa/assets/svg/bell.svg": "15bd3660a1cc59af837d8646293a445882c05b23",
+    "/chooseurlook-pwa/assets/svg/c-ic-web-head-cart.svg": "29688af6475e994137183438d8010c54c0df4e1c",
+    "/chooseurlook-pwa/assets/svg/heart.svg": "34ac053bec550f88ff636ab82197b4c22a2bec92",
+    "/chooseurlook-pwa/assets/svg/ic-web-head-wishlist.svg": "a0bec4039544faa9df608d4e2bcdce7adc8020e0",
+    "/chooseurlook-pwa/assets/svg/like.svg": "b056c7c4b4a92fae47db047dfc67ea51bb1ddf55",
+    "/chooseurlook-pwa/assets/svg/notifications.svg": "cd16083ffdc04029c52e21d12df19c69ab06f4c9",
+    "/chooseurlook-pwa/assets/svg/reload.svg": "b6c99c26617fc287dd38e2c1d3b5a0c3ee00f4d2",
+    "/chooseurlook-pwa/assets/svg/search-1.svg": "4921e1413b2ede22146f7fa8e598fa381a83d690",
+    "/chooseurlook-pwa/assets/svg/search.svg": "99b1fda1ade62b08c4e2e714a89fa725bc37d921",
     "/chooseurlook-pwa/favicon.ico": "9ca12a431d0ab4950e2bac73ae1515c3d578a0f8",
-    "/chooseurlook-pwa/index.html": "768ab2167d85d409d159de92653b8f6c3051ac7e",
-    "/chooseurlook-pwa/main.7089f25b24d1749d.js": "cebcce78fa7e6adeabd47e21c4251cbfb5ad9c0c",
+    "/chooseurlook-pwa/index.html": "b5364b3975934f2810059a59c5de48769ce661d2",
+    "/chooseurlook-pwa/main.0ba94f258e63c7bc.js": "c773c6cba072af701228ae9921bb6a37d62bef98",
     "/chooseurlook-pwa/manifest.webmanifest": "3b68ff11fd40483a7d5f17b3bcd4f271b1c9310b",
     "/chooseurlook-pwa/polyfills.2ad9b001220b2c83.js": "e52f4b944170d8aa1a1266f1285bd6a463e64e23",
     "/chooseurlook-pwa/runtime.c624b006195b354c.js": "64cf08bd46186db446ce0e0c224bf5599a55b84b",

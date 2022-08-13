@@ -1,0 +1,66 @@
+.noMg {
+    margin: 0;
+}
+
+.mHeader {
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-flow: inherit;
+    flex-flow: inherit;
+    -ms-flex-pack: start;
+    justify-content: flex-start;
+    -ms-flex-align: center;
+    align-items: center;
+    position: relative;
+    width: 100%;
+    height: 56px;
+}
+
+
+.headerDivWrapper {
+    z-index: 9999;
+    background-color: rgb(16, 227, 107);
+    position: fixed;
+    top: 0px;
+    left: 0pt;
+}
+
+ .iconMenuOption {
+    text-align: right;
+    position: absolute;
+    top: 0;
+    right: 8px;
+}
+
+.iconMenuOption span {
+    color: #000;
+    display: inline-block;
+    font-size: 20px;
+    padding: 14px 8px 0;
+    line-height: 40px;
+}
+
+.mLogoDiv {
+    margin: 0;
+    padding: 0 8px 0 16px;
+}
+
+.mActionMenu {
+    width: calc(100% - 190px);
+    color: #000;
+}
+
+.mActionMenu span {
+    float: none;
+}
+
+
+.mChooseurlookLogoDiv {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.iconMenuOption span .header-icon {
+    height: 24px;
+    width: 24px;
+}
