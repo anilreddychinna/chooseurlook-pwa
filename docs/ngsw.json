@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1660366907137,
+  "timestamp": 1660367271987,
   "index": "/chooseurlook-pwa/index.html",
   "assetGroups": [
     {
@@ -55,15 +55,15 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/chooseurlook-pwa/assets/icons/icon-128x128.png": "cee83d72fa7ba279929e38d2c971cf27cf88e84b",
-    "/chooseurlook-pwa/assets/icons/icon-144x144.png": "6d402d8823a00a15bed818396bf3d28630572e7e",
-    "/chooseurlook-pwa/assets/icons/icon-152x152.png": "406f65591782833113bca582a4300b5af3c99a37",
-    "/chooseurlook-pwa/assets/icons/icon-192x192.png": "e8e7edd63ea258d50f7532ec89d86bad811f98fb",
-    "/chooseurlook-pwa/assets/icons/icon-384x384.png": "45f1397ba3c586561beb2e78928f1e5dc6747ded",
-    "/chooseurlook-pwa/assets/icons/icon-48x48.png": "c61d119f1c71d18f210052705247bafd60807db1",
-    "/chooseurlook-pwa/assets/icons/icon-512x512.png": "635fac49156b22a504cd97680e54fc5512134ae7",
-    "/chooseurlook-pwa/assets/icons/icon-72x72.png": "337708c812ff07535d319c7999e92cd18c9979b2",
-    "/chooseurlook-pwa/assets/icons/icon-96x96.png": "346b1f38c34f709967424f07fdd16778ea76a709",
+    "/chooseurlook-pwa/assets/icons/icon-128x128.png": "081004667d7b6ebc807785fb74249736d2056694",
+    "/chooseurlook-pwa/assets/icons/icon-144x144.png": "7a367d52b1009c017c547837966b7f5755822943",
+    "/chooseurlook-pwa/assets/icons/icon-152x152.png": "70db9cc9d4a70d1051e2cb4c48e7fd666d7e3598",
+    "/chooseurlook-pwa/assets/icons/icon-192x192.png": "98b48e19d583505cd2ce2aad0866380ddc29fb74",
+    "/chooseurlook-pwa/assets/icons/icon-384x384.png": "1f64905be809937cd0a389c42f206e0d595be6b3",
+    "/chooseurlook-pwa/assets/icons/icon-48x48.png": "70a419e85a088f6db4844da59643c17445b87d0b",
+    "/chooseurlook-pwa/assets/icons/icon-512x512.png": "0ad2e962dd9e1a7d66240b41b5e5c003c79375dd",
+    "/chooseurlook-pwa/assets/icons/icon-72x72.png": "3d0c0150cc22fa4d253e42a9a24b8f1c128c3695",
+    "/chooseurlook-pwa/assets/icons/icon-96x96.png": "b3eec49ff4c996683d9aa9422860ff3d156ba749",
     "/chooseurlook-pwa/assets/svg/account.svg": "5f10cc927ff276c8bb9e342f24cbb4b196292d8f",
     "/chooseurlook-pwa/assets/svg/bag.svg": "bc839efbfb25c735f001008d640523530a73811b",
     "/chooseurlook-pwa/assets/svg/bell.svg": "15bd3660a1cc59af837d8646293a445882c05b23",
