@@ -1,6 +1,6 @@
 {
-  "name": "chooseurlook-pwa",
-  "short_name": "chooseurlook-pwa",
+  "name": "chooseurlook-app",
+  "short_name": "chooseurlook-app",
   "theme_color": "#1976d2",
   "background_color": "#fafafa",
   "display": "standalone",
@@ -56,40 +56,20 @@
       "purpose": "maskable any"
     }
   ],
-
-  "screenshots": [
+  "shortcuts" : [
     {
-      "src": "/images/screenshot1.png",
-      "type": "image/png",
-      "sizes": "540x720"
+      "name": "Contact Me",
+      "url": "/contact",
+      "description": "Contact me for more details"
     },
     {
-      "src": "/images/screenshot2.jpg",
-      "type": "image/jpg",
-      "sizes": "540x720"
-    }
-  ],
-
-  "shortcuts": [
-    {
-      "name": "How's weather today?",
-      "short_name": "Today",
-      "description": "View weather information for today",
-      "url": "/today?source=pwa",
-      "icons": [{ "src": "/images/today.png", "sizes": "192x192" }]
+      "name": "Shop Now",
+      "url": "/products",
+      "description": "Sale Sale Sale"
     },
     {
-      "name": "How's weather tomorrow?",
-      "short_name": "Tomorrow",
-      "description": "View weather information for tomorrow",
-      "url": "/tomorrow?source=pwa",
-      "icons": [{ "src": "/images/tomorrow.png", "sizes": "192x192" }]
+      "name": "Track Orders",
+      "url": "/login"
     }
-  ],
-  
-  "related_applications": [{
-    "platform": "play",
-    "url": "https://play.google.com/store/apps/details?id=cheeaun.hackerweb"
-  }]
-
+  ]
 }
